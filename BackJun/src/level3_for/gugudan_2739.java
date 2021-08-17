@@ -10,7 +10,7 @@ public class gugudan_2739 {
 		int n;
 
 		n = sc.nextInt();
-
+ 
 		sc.close();
 
 		for (int i = 1; i < 10; i++) {
